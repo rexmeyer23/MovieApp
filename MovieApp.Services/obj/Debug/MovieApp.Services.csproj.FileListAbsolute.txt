@@ -1,0 +1,16 @@
+C:\AgileProject\MovieApp\MovieApp.Services\bin\Debug\MovieApp.Services.dll.config
+C:\AgileProject\MovieApp\MovieApp.Services\bin\Debug\MovieApp.Services.dll
+C:\AgileProject\MovieApp\MovieApp.Services\bin\Debug\MovieApp.Services.pdb
+C:\AgileProject\MovieApp\MovieApp.Services\bin\Debug\EntityFramework.dll
+C:\AgileProject\MovieApp\MovieApp.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\AgileProject\MovieApp\MovieApp.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\AgileProject\MovieApp\MovieApp.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\AgileProject\MovieApp\MovieApp.Services\bin\Debug\EntityFramework.xml
+C:\AgileProject\MovieApp\MovieApp.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\AgileProject\MovieApp\MovieApp.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\AgileProject\MovieApp\MovieApp.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\AgileProject\MovieApp\MovieApp.Services\obj\Debug\MovieApp.Services.csproj.AssemblyReference.cache
+C:\AgileProject\MovieApp\MovieApp.Services\obj\Debug\MovieApp.Services.csproj.CoreCompileInputs.cache
+C:\AgileProject\MovieApp\MovieApp.Services\obj\Debug\MovieApp.Services.csproj.CopyComplete
+C:\AgileProject\MovieApp\MovieApp.Services\obj\Debug\MovieApp.Services.dll
+C:\AgileProject\MovieApp\MovieApp.Services\obj\Debug\MovieApp.Services.pdb
