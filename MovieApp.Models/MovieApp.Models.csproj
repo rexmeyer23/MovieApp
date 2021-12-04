@@ -54,6 +54,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminCreate.cs" />
+    <Compile Include="AdminDetail.cs" />
+    <Compile Include="AdminEdit.cs" />
+    <Compile Include="AdminListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
